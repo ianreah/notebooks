@@ -5,6 +5,4 @@ title: Audio Visualiser Experiments
 
 ### Notebooks
 
-**Single variable calculus**
-
-* [Definition of Derivative](single-variable-calculus/1. Definition of Derivative.ipynb)
+* [Single variable calculus](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/single-variable-calculus/)
