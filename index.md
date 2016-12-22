@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Audio Visualiser Experiments
+title: Jupyter Notebooks Index
 ---
 
 ### Notebooks
