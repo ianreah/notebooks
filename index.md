@@ -7,5 +7,7 @@ title: Jupyter Notebooks Index
 
 * [Single variable calculus](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/single-variable-calculus/)
   * [Differentation](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/single-variable-calculus/differentiation/)
-  * [Applications of Differentiation](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages//single-variable-calculus/applications-of-differentiation)
-  * [Integration](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages//single-variable-calculus/integration)
+  * [Applications of Differentiation](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/single-variable-calculus/applications-of-differentiation)
+  * [Integration](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/single-variable-calculus/integration)
+* [Linear algebra](http://nbviewer.jupyter.org/github/ianreah/notebooks/tree/gh-pages/linear-algebra/)
+
